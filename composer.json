@@ -25,5 +25,7 @@
     "repositories": {
         "type": "composer",
         "url": "https://github.com/adithyanrdas/CustomerImport"
-    }
+    },
+  "minimum-stability": "dev",
+  "prefer-stable": true
   }
