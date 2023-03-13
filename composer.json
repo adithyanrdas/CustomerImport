@@ -1,5 +1,5 @@
 {
-    "name": "adithyan/customer-import",
+    "name": "adithyanrdas/CustomerImport",
     "description": "Import customer data using csv of json file",
     "require": {
       "php": ">=7.3.0"
@@ -14,7 +14,6 @@
       {
         "name": "Adithyan R Das",
         "email": "adithyanrdas@gmail.com",
-        "homepage": "https://github.com/adithyanrdas/CustomerImport"
       }
     ],
     "autoload": {
@@ -22,10 +21,6 @@
         "registration.php"
       ]
     },
-    "repositories": {
-        "type": "composer",
-        "url": "https://github.com/adithyanrdas/CustomerImport"
-    },
-  "minimum-stability": "dev",
+  "minimum-stability":"dev",
   "prefer-stable": true
   }
