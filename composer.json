@@ -1,5 +1,5 @@
 {
-    "name": "adithyanrdas/customer-import",
+    "name": "adithyan/customerimport",
     "description": "Import customer data using csv of json file",
     "require": {
       "php": ">=7.3.0"
